@@ -185,6 +185,7 @@ function App() {
                     <img src="/images/IMG_3423.jpg.jpeg" alt="The Bride" className="couple-image" />
                   </div>
                   <h3 className="couple-name">Rashmiaa</h3>
+                  <h3 className="couple-name">Rashmiaa</h3>
                   <div className="couple-role">The Bride</div>
                 </div>
 
