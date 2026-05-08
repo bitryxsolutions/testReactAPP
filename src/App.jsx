@@ -192,7 +192,7 @@ function App() {
                   <div className="couple-image-wrap">
                     <img src="/images/IMG_5634.JPG.jpeg" alt="The Groom" className="couple-image" />
                   </div>
-                  <h3 className="couple-name">Tharuka</h3>
+                  <h3 className="couple-name">Tharuka Dilshan</h3>
                   <div className="couple-role">The Groom</div>
                 </div>
               </div>
